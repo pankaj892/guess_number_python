@@ -1,3 +1,3 @@
 # guess_number_python
 
-## Guess the number game using Python
+## Guessing the number game using Python
